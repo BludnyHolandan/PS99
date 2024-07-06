@@ -1,1 +1,2 @@
-asd
+script_key="oioi";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/439bc415d8fe721fab08f3cebf76f4da.lua"))()
